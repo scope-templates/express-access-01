@@ -1,0 +1,54 @@
+name,work_email,team,manager_email,kind,work_country,work_state,start_date,contract_end_date,end_date,offer_signed_date,role
+Dana Whitcombe,dana.whitcombe@veldraroute.com,Leadership,,employee,US,CO,2019-03-04,,,2019-02-08,manager
+Ravi Subramaniam,ravi.subramaniam@veldraroute.com,Leadership,dana.whitcombe@veldraroute.com,employee,US,CO,2019-03-04,,,2019-02-08,admin
+Marisol Ibarra,marisol.ibarra@veldraroute.com,Operations,dana.whitcombe@veldraroute.com,employee,US,CO,2020-08-17,,,2020-07-24,admin
+Keith Lindqvist,keith.lindqvist@veldraroute.com,Operations,marisol.ibarra@veldraroute.com,employee,US,CO,2021-11-01,,,2021-10-08,people-ops
+Tamsin Okoro,tamsin.okoro@veldraroute.com,Operations,marisol.ibarra@veldraroute.com,employee,US,TX,2024-06-10,,,2024-05-17,viewer
+Jonah Feld,jonah.feld@veldraroute.com,Platform,ravi.subramaniam@veldraroute.com,employee,US,CO,2019-09-09,,,2019-08-16,manager
+Priya Raman,priya.raman@veldraroute.com,Platform,jonah.feld@veldraroute.com,employee,US,CO,2020-02-03,,,2020-01-10,it
+Caleb Ostrowski,caleb.ostrowski@veldraroute.com,Platform,jonah.feld@veldraroute.com,employee,US,WA,2022-05-16,,,2022-04-22,viewer
+Desmond Achebe,desmond.achebe@veldraroute.com,Platform,jonah.feld@veldraroute.com,employee,US,IL,2023-09-05,,,2023-08-11,viewer
+Hana Kobayashi,hana.kobayashi@veldraroute.com,Platform,jonah.feld@veldraroute.com,employee,US,CO,2025-11-10,,,2025-10-20,viewer
+Lucia Ferraro,lucia.ferraro@veldraroute.com,Platform,jonah.feld@veldraroute.com,contractor,US,NC,2026-03-16,2026-09-18,,2026-03-04,viewer
+Felix Navarro,felix.navarro@veldraroute.com,Platform,jonah.feld@veldraroute.com,employee,US,CO,2021-03-15,,,2021-02-19,viewer
+Nadia Castellanos,nadia.castellanos@veldraroute.com,Dispatch,ravi.subramaniam@veldraroute.com,employee,US,CO,2020-01-13,,,2019-12-20,manager
+Brendan Kowalczyk,brendan.kowalczyk@veldraroute.com,Dispatch,nadia.castellanos@veldraroute.com,employee,US,TX,2021-07-12,,,2021-06-18,viewer
+Imani Brooks,imani.brooks@veldraroute.com,Dispatch,nadia.castellanos@veldraroute.com,employee,US,GA,2022-10-03,,,2022-09-09,viewer
+Sofia Lindgren,sofia.lindgren@veldraroute.com,Dispatch,nadia.castellanos@veldraroute.com,employee,US,IL,2023-02-06,,,2023-01-13,viewer
+Trevor Haldane,trevor.haldane@veldraroute.com,Dispatch,nadia.castellanos@veldraroute.com,employee,US,MN,2024-03-18,,,2024-02-23,viewer
+Yusuf Demir,yusuf.demir@veldraroute.com,Dispatch,nadia.castellanos@veldraroute.com,employee,US,CO,2026-02-09,,,2026-01-22,viewer
+Inês Carvalho,ines.carvalho@veldraroute.com,Dispatch,nadia.castellanos@veldraroute.com,contractor,PT,,2024-09-02,2026-12-31,,2024-08-09,viewer
+Rui Mendonça,rui.mendonca@veldraroute.com,Dispatch,nadia.castellanos@veldraroute.com,contractor,PT,,2025-04-07,2027-03-31,,2025-03-14,viewer
+Fatima Rahimi,fatima.rahimi@veldraroute.com,Dispatch,nadia.castellanos@veldraroute.com,employee,US,IL,2021-06-07,,2026-03-27,2021-05-14,viewer
+Grace Albright,grace.albright@veldraroute.com,Mobile,ravi.subramaniam@veldraroute.com,employee,US,NY,2021-01-11,,,2020-12-18,manager
+Theo Vasquez,theo.vasquez@veldraroute.com,Mobile,grace.albright@veldraroute.com,employee,US,CO,2022-03-07,,,2022-02-11,viewer
+Min-jun Park,minjun.park@veldraroute.com,Mobile,grace.albright@veldraroute.com,employee,US,WA,2023-06-12,,,2023-05-19,viewer
+Aaron Sheffield,aaron.sheffield@veldraroute.com,Mobile,grace.albright@veldraroute.com,employee,US,NC,2024-11-04,,,2024-10-11,viewer
+Valeria Quintero,valeria.quintero@veldraroute.com,Mobile,grace.albright@veldraroute.com,contractor,MX,,2026-04-06,2027-04-05,,2026-03-20,viewer
+Diego Arredondo,diego.arredondo@veldraroute.com,Mobile,grace.albright@veldraroute.com,contractor,MX,,2025-02-03,2026-12-18,,2025-01-10,viewer
+Andrea Molina,andrea.molina@veldraroute.com,Mobile,grace.albright@veldraroute.com,employee,US,NY,2022-02-14,,2026-07-09,2022-01-21,viewer
+Elena Varga,elena.varga@veldraroute.com,Data,ravi.subramaniam@veldraroute.com,employee,US,IL,2021-05-03,,,2021-04-09,manager
+Marcus Oyelaran,marcus.oyelaran@veldraroute.com,Data,elena.varga@veldraroute.com,employee,US,CO,2022-08-01,,,2022-07-08,viewer
+Ingrid Solberg,ingrid.solberg@veldraroute.com,Data,elena.varga@veldraroute.com,employee,US,MN,2023-10-16,,,2023-09-22,viewer
+Odile Marchetti,odile.marchetti@veldraroute.com,Data,elena.varga@veldraroute.com,contractor,US,WA,2025-11-17,2026-05-29,,2025-10-27,viewer
+Samir Haddad,samir.haddad@veldraroute.com,Data,elena.varga@veldraroute.com,employee,US,TX,2026-05-04,,,2026-04-09,viewer
+Tiago Fonseca,tiago.fonseca@veldraroute.com,Data,elena.varga@veldraroute.com,contractor,PT,,2025-06-02,2026-11-30,,2025-05-09,viewer
+Naomi Ferreira,naomi.ferreira@veldraroute.com,Data,elena.varga@veldraroute.com,employee,US,CO,2026-10-13,,,2026-09-24,viewer
+Jasper Thorne,jasper.thorne@veldraroute.com,Data,elena.varga@veldraroute.com,employee,US,CO,2023-04-03,,2025-12-12,2023-03-10,viewer
+Rebecca Tran,rebecca.tran@veldraroute.com,Customer Success,dana.whitcombe@veldraroute.com,employee,US,CO,2020-06-01,,,2020-05-08,manager
+Luis Ortega,luis.ortega@veldraroute.com,Customer Success,rebecca.tran@veldraroute.com,employee,US,TX,2021-09-20,,,2021-08-27,viewer
+Courtney Bell,courtney.bell@veldraroute.com,Customer Success,rebecca.tran@veldraroute.com,employee,US,GA,2022-01-18,,,2021-12-24,viewer
+Jamal Whitfield,jamal.whitfield@veldraroute.com,Customer Success,rebecca.tran@veldraroute.com,employee,US,GA,2023-03-13,,,2023-02-17,viewer
+Erin Gallagher,erin.gallagher@veldraroute.com,Customer Success,rebecca.tran@veldraroute.com,employee,US,NY,2023-08-21,,,2023-07-28,viewer
+Mei-Ling Chou,meiling.chou@veldraroute.com,Customer Success,rebecca.tran@veldraroute.com,employee,US,WA,2024-04-15,,,2024-03-22,viewer
+Patrick Doyle,patrick.doyle@veldraroute.com,Customer Success,rebecca.tran@veldraroute.com,employee,US,CO,2026-09-28,,,2026-09-08,viewer
+Colin Byrne,colin.byrne@veldraroute.com,Customer Success,rebecca.tran@veldraroute.com,employee,US,GA,2024-01-08,,2026-05-22,2023-12-15,viewer
+Stephen Aldana,stephen.aldana@veldraroute.com,Sales,dana.whitcombe@veldraroute.com,employee,US,TX,2020-04-06,,,2020-03-13,manager
+Allison Mercer,allison.mercer@veldraroute.com,Sales,stephen.aldana@veldraroute.com,employee,US,NY,2021-10-04,,2026-10-30,2021-09-10,viewer
+Kofi Mensah,kofi.mensah@veldraroute.com,Sales,stephen.aldana@veldraroute.com,employee,US,IL,2022-06-06,,,2022-05-13,viewer
+Laura Bianchi,laura.bianchi@veldraroute.com,Sales,stephen.aldana@veldraroute.com,employee,US,CO,2023-01-09,,,2022-12-16,viewer
+Derek Saunders,derek.saunders@veldraroute.com,Sales,stephen.aldana@veldraroute.com,employee,US,NC,2023-11-06,,,2023-10-13,viewer
+Victor Shapiro,victor.shapiro@veldraroute.com,Sales,stephen.aldana@veldraroute.com,employee,US,MN,2024-08-12,,,2024-07-19,viewer
+Rachel Kim,rachel.kim@veldraroute.com,Sales,stephen.aldana@veldraroute.com,employee,US,WA,2026-06-01,,,2026-05-12,viewer
+Wesley Corrigan,wesley.corrigan@veldraroute.com,Sales,stephen.aldana@veldraroute.com,employee,US,TX,2022-08-15,,2026-01-23,2022-07-22,viewer
+Bethany Holcomb,bethany.holcomb@veldraroute.com,Sales,stephen.aldana@veldraroute.com,employee,US,GA,2026-10-19,,,2026-09-30,viewer
